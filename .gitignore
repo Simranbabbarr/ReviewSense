@@ -1,0 +1,10 @@
+
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+reviewsense_model/
+feedback student.csv
+archive*/
+.env
+.streamlit/secrets.toml
